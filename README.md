@@ -1,5 +1,5 @@
 # Bingo
-Personal Bingo ProjectI worked on over the winter break
+Personal Bingo Project I worked on over the winter break
 
 Features: 
   - Title page before you actually start the game
